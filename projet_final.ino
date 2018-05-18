@@ -1,4 +1,4 @@
-//PROJET OK 18/05/2018/13H30
+//PROJET MODIFIÉ LE 18 MAI 2018 À 19H00
 #include <RTClib.h>
 #include <Wire.h>
 #include "rgb_lcd.h"
