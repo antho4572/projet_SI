@@ -1,4 +1,4 @@
 Ce projet a été réalisé dans le cadre du projet de terminal S-SI
 Il concerne un distributeur de nourriture  autonome de  pour animaux domestiques.(photo dans le dossier)
-Retrouvez les différents modules Arduino achetés dans le dossier "Ressources".
+Retrouvez les différents modules Arduino achetés ainsi que le cablage dans le dossier "Ressources".
 Vous pouvez télécharger les différentes librairies utilisées dans le programme Arduino. 
