@@ -11,3 +11,24 @@ Ce projet a été réalisé à partir de module GROVE, mais vous pouvez l'adapte
 -Capteur de poids : https://www.gotronic.fr/art-capteur-de-force-1-kg-interface-sen0160-22707.htm
 
 Moteur 12V et Pompe 6V
+
+Relier les modules à l'Arduino comme indiquer ci-dessous:
+-Bouton poussoir HAUT sur port D4
+-Bouton poussoir Bas sur port D8
+-Potentiomètre sur port A0
+-Relais "pompe" sur port D3
+-Relais "moteur" sur port D2
+-RTC et ecran LCD sur port I2C
+-Capteur de niveau d'eau sur port A1
+-Module Bluetooth sur port UART
+
+Pour le capteur de poids : 
+-relier le fil rouge au port " " du module balance
+-relier le fil vert au port " " du module balance
+-relier le fil blanc au port " " du module balance
+-relier le fil noir au port " " du module balance
+Ensuite :
+-relier le VCC au " " du bornier
+-relier le GND au " " du bornier
+-relier le    au " " du bornier
+-relier le    au " " du bornier
