@@ -10,6 +10,9 @@ Ce projet a été réalisé à partir de module GROVE, mais vous pouvez l'adapte
 -Bornier à vis : http://www.a4.fr/module-de-connexion-universelle-bornier-a-vis-4-plots.html
 -Capteur de poids : https://www.gotronic.fr/art-capteur-de-force-1-kg-interface-sen0160-22707.htm
 
+Il vous faudra soit une alimentation stabilisé soit un transformateur qui transforme le courant EDF en sortie 5V.
+J'ai choisis le 2ème cas car c'est plus pratique pour mon projet.
+
 Moteur 12V et Pompe 6V
 
 Relier les modules à l'Arduino comme indiquer ci-dessous:
